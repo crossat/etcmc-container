@@ -26,9 +26,9 @@ jobs:
           fi
 
       # Step 2: If the file has changed, continue with the build
-      - name: Check if file changed
-        if: steps.check_file.outputs.result != 'File has changed'
-        run: echo "No changes detected, skipping build."
+      # - name: Check if file changed
+      #   if: steps.check_file.outputs.result != 'File has changed'
+      #   run: echo "No changes detected, skipping build."
 
       # Step 3: If the file changed, trigger Docker build and push
       - name: Log in to Docker Hub
