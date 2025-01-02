@@ -6,6 +6,7 @@
 # - If you ran in to any problems please use the command /help in the bot. Still have questions or			- 
 # - Suggestions? Open this telegram channel: https://t.me/+fXzI53axtsI0NGE0                                             - 
 # - 											Greetings Primera (NL)		- 
+# ----------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------------------------------------------- 
 
 # Server variables
